@@ -35,6 +35,7 @@ const MainHeader = styled.div`
   display: flex;
   height: 72px;
   padding: 0 32px;
+  gap: 48px;
 `;
 
 const Side = styled.div`
